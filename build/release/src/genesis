@@ -1,0 +1,2 @@
+Insert this line into your coin configuration file as is: 
+const char GENESIS_COINBASE_TX_HEX[] = "013c01ff0001e6cc99b3e6cc01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101a521515cd018cfedcb6b4a270f25e7a5110125144f38ef8d9d894f46b6ce6d92";

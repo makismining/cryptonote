@@ -1,0 +1,280 @@
+2018-Feb-08 07:23:35.666484 INFO [simplewallet] festcoin wallet v1.1.1.1()
+2018-Feb-08 07:23:43.260795 INFO [simplewallet] Generated new wallet: fcy42VXvzezK1CC1v4gDHD9iCUQjQEsqkdGFq5VVZ6BmbvgzT7ueyEkbDffqHXkb1CK6oy7eJbH7HUtd6nearXjn74HbiSc6M5
+2018-Feb-08 07:23:43.260795 INFO [simplewallet] view key: 7df6e8381016471e7351bc1ca1056973c7c436de574f9fd944522811dff84e0c
+2018-Feb-08 07:23:43.262115 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Feb-08 07:24:21.969062 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:24:31.246981 INFO [simplewallet] fcy42VXvzezK1CC1v4gDHD9iCUQjQEsqkdGFq5VVZ6BmbvgzT7ueyEkbDffqHXkb1CK6oy7eJbH7HUtd6nearXjn74HbiSc6M5
+2018-Feb-08 07:26:18.315059 INFO [simplewallet] Height 1, transaction 1e5e176575ed54096b56ee0d326deeb82ab2eb057797a320540386d408acc345, received 70368.47574220
+2018-Feb-08 07:26:18.315131 INFO [simplewallet] Height 2, transaction d70761d74e48152efcad9ab0135b22dd5e4b4b17cb7d12fb2e2e29c22b55ae29, received 70368.20730777
+2018-Feb-08 07:26:28.268424 INFO [simplewallet] Height 3, transaction 120d83a609f605b3cc7509bd59bbac7d74d0841bcba871f82b87ab7c5c80a4b4, received 70367.93887436
+2018-Feb-08 07:27:25.350757 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:27:28.568163 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:27:49.937757 INFO [simplewallet] Mining started in daemon
+2018-Feb-08 07:27:54.622676 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:28:14.872517 INFO [simplewallet] Wallet closed
+2018-Feb-08 07:28:20.683794 INFO [simplewallet] festcoin wallet v1.1.1.1()
+2018-Feb-08 07:28:31.980755 INFO [simplewallet] Loading wallet...
+2018-Feb-08 07:28:32.059342 INFO [simplewallet] Opened wallet: fcy42VXvzezK1CC1v4gDHD9iCUQjQEsqkdGFq5VVZ6BmbvgzT7ueyEkbDffqHXkb1CK6oy7eJbH7HUtd6nearXjn74HbiSc6M5
+2018-Feb-08 07:28:32.060139 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Feb-08 07:28:39.431870 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:30:14.189125 INFO [simplewallet] festcoin wallet v1.1.1.1()
+2018-Feb-08 07:30:24.463309 INFO [simplewallet] Generated new wallet: fcy3kyMU6Ewa1ZRPB4UEo2arxXJqNSWxaFHyD5Gr6wPe87P4W59aQpz84T3qsrSJmBQ32RCRhAUUv9Gt1hwV5dmeA13CMQFN65
+2018-Feb-08 07:30:24.463309 INFO [simplewallet] view key: ddd2fcd39fe870e6c489986eefa8e438c40f6b7465f16622d0bf45f6e935f20f
+2018-Feb-08 07:30:24.475646 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Feb-08 07:30:27.679159 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 07:31:01.510108 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:31:09.501862 INFO [simplewallet] 3
+2018-Feb-08 07:32:52.973961 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:32:58.303236 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:33:13.006982 ERROR [simplewallet] unexpected end of arguments
+2018-Feb-08 07:37:14.513380 INFO [simplewallet] Wallet closed
+2018-Feb-08 07:37:39.171661 INFO [simplewallet] festcoin wallet v1.1.1.1()
+2018-Feb-08 07:38:55.529024 INFO [simplewallet] Loading wallet...
+2018-Feb-08 07:38:55.748562 INFO [simplewallet] Opened wallet: fcy42VXvzezK1CC1v4gDHD9iCUQjQEsqkdGFq5VVZ6BmbvgzT7ueyEkbDffqHXkb1CK6oy7eJbH7HUtd6nearXjn74HbiSc6M5
+2018-Feb-08 07:38:55.748805 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Feb-08 07:39:31.420638 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:39:53.008808 ERROR [simplewallet] Error: Wrong amount
+2018-Feb-08 07:40:06.214221 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:40:16.484942 ERROR [simplewallet] mixin_count should be non-negative integer, got fcy3kyMU6Ewa1ZRPB4UEo2arxXJqNSWxaFHyD5Gr6wPe87P4W59aQpz84T3qsrSJmBQ32RCRhAUUv9Gt1hwV5dmeA13CMQFN65
+2018-Feb-08 07:40:26.401005 ERROR [simplewallet] Error: Wrong amount
+2018-Feb-08 07:40:33.985009 ERROR [simplewallet] Error: Wrong amount
+2018-Feb-08 07:40:46.510345 ERROR [simplewallet] Error: Wrong amount
+2018-Feb-08 07:40:53.800842 ERROR [simplewallet] Error: Wrong amount
+2018-Feb-08 07:40:58.656883 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:41:13.876630 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 07:41:59.206320 ERROR [simplewallet] Error: mining has NOT been started: Failed,miningnotstarted
+2018-Feb-08 07:42:10.265531 ERROR [simplewallet] Error: mining has NOT been started: Failed,miningnotstarted
+2018-Feb-08 07:42:12.232741 INFO [simplewallet] available balance: 0.00000000, locked amount: 211104.62192433
+2018-Feb-08 07:42:30.647978 INFO [simplewallet] Height 4, transaction 980fd4c105b512685b44786c0d21310003aad0e7dc44d3ee690f8e022783bdad, received 70367.67044198
+2018-Feb-08 07:42:38.708981 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 07:42:41.656699 INFO [simplewallet] available balance: 0.00000000, locked amount: 281472.29236631
+2018-Feb-08 07:42:57.852496 INFO [simplewallet] festcoin wallet v1.1.1.1()
+2018-Feb-08 07:43:10.040970 INFO [simplewallet] Generated new wallet: fcy44cnuDw6BqrBCrmvdVyiRKACQjayhnMVdiAU1r7ZARyv9gt8bxcpNUKM6hvWjqaSfo5BZruRxhXwqzr4zsf332VcL1u4cMA
+2018-Feb-08 07:43:10.040970 INFO [simplewallet] view key: 5182a967d70f2c4d6c61c212f597637566794e32340b07d393083d8f8b6e8002
+2018-Feb-08 07:43:10.041275 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Feb-08 07:43:14.408659 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 07:43:16.153000 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Feb-08 07:43:19.734520 ERROR [simplewallet] Error: mining has NOT been started: Failed,miningnotstarted
+2018-Feb-08 07:45:15.848672 INFO [simplewallet] available balance: 0.00000000, locked amount: 281472.29236631
+2018-Feb-08 07:45:20.416870 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 08:11:30.507970 INFO [simplewallet] Height 5, transaction 0e994a256692ace5549db2c67eda5b763c1356934b76a236c098269a18bfb4c8, received 70367.40201062
+2018-Feb-08 08:14:11.432908 INFO [simplewallet] available balance: 0.00000000, locked amount: 281472.29236631
+2018-Feb-08 08:15:04.792547 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 08:19:40.748849 INFO [simplewallet] Height 6, transaction edd9ce03b75840432548c99ede7ee858718d0d8dfaadc08648204837304f1091, received 70367.13358028
+2018-Feb-08 08:33:37.068118 INFO [simplewallet] Height 7, transaction 3e9b7b9121cf8d7af5febafed6a6fb98ee10bde4a17ea8d8cd170e2ffb6bd8e8, received 70366.86515097
+2018-Feb-08 08:34:37.092325 INFO [simplewallet] Height 8, transaction c2612552e0374afcb973855629fc286d8a000d816eb044e00387f74fcfd9fa84, received 70366.59672268
+2018-Feb-08 08:38:52.207550 INFO [simplewallet] Height 9, transaction aec910df892f00ac1bcd8b3e72f3b629a2729bb273804dbe4a219d8fa71d41ae, received 70366.32829542
+2018-Feb-08 08:41:27.220788 INFO [simplewallet] Height 10, transaction 1d75cfd29beb54f9159cef06ac8aeadc9e1674aa7b5de5b6d5129add7f3cfd1d, received 70366.05986918
+2018-Feb-08 08:42:32.248695 INFO [simplewallet] Height 11, transaction db59d6fd72482b3217f335a3c02a769fec2427c680050397d702412c912399dc, received 70365.79144396
+2018-Feb-08 08:43:06.473337 INFO [simplewallet] Height 12, transaction e0a1d7eb362fee7a54dd860beb3ea6a87bcbb45dcd9467320dd2a56511d14e93, received 70365.52301977
+2018-Feb-08 08:43:24.356920 INFO [simplewallet] available balance: 0.00000000, locked amount: 633303.93384852
+2018-Feb-08 08:43:32.628727 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 08:43:42.336805 INFO [simplewallet] Height 13, transaction c09fbd977bf13a0f70334ffe5dbfc934cb0f14b0cdd5d38a2c91bd5cfdcb4748, received 70365.25459660
+2018-Feb-08 08:43:52.292927 INFO [simplewallet] available balance: 0.00000000, locked amount: 703669.18844512
+2018-Feb-08 08:44:22.348080 INFO [simplewallet] Height 14, transaction 92f0b8e8a57f780ee439a977017b2dc17311b6f5ffaaa7257ca3383bdad82465, received 70364.98617446
+2018-Feb-08 08:45:27.376573 INFO [simplewallet] Height 15, transaction 8942cf5ded825f22c5215d4fbc8bf81d1edc92b070ef51af20c55e0538caafb2, received 70364.71775334
+2018-Feb-08 08:46:47.403794 INFO [simplewallet] Height 16, transaction 85a2be2241bc935732707b1b234a344ce8918f9905abb7eb1d27f58471502b53, received 70364.44933324
+2018-Feb-08 08:49:52.452727 INFO [simplewallet] Height 17, transaction ee7eee8482653d32178e3dd707ff40d6d1d5710a64077bc60616a5365ab8b81c, received 70364.18091417
+2018-Feb-08 08:55:01.713032 INFO [simplewallet] Height 18, transaction fbd426cd558cc6d160df6496cf4d9e30be45ad44258b224727588b8237ca5ca2, received 70363.91249612
+2018-Feb-08 08:55:17.636752 INFO [simplewallet] Height 19, transaction d929b149cbcbc8bedf6f5025a19ece6b41a92467aab3f8065b2d714e0ba0153c, received 70363.64407910
+2018-Feb-08 09:00:47.756525 INFO [simplewallet] Height 20, transaction bbbfd1d06ece94769e70e9473f4e3e5b2df51ec8277ec92abb6d2b6c4d5e054b, received 70363.37566309
+2018-Feb-08 09:01:57.736791 INFO [simplewallet] Height 21, transaction 6f56f2021b10de8719025bf0768e236064105b0b170f57bc9fa12009bcc0c4a4, received 70363.10724812
+2018-Feb-08 09:02:47.759811 INFO [simplewallet] Height 22, transaction 87bf627c841421aeb7a06babdce4cb2beaa5677d7305b95f6041b251e9221b9b, received 70362.83883416
+2018-Feb-08 09:05:47.839712 INFO [simplewallet] Height 23, transaction 4901adb7f2a562c8a8c25161fc080426b93cbbd605d7939a3ff4afab1d83a47f, received 70362.57042124
+2018-Feb-08 09:06:32.864759 INFO [simplewallet] Height 24, transaction efcd3761fea0a7251730cf409262483c020f6f39f198f3c58feed7cbeab8fad1, received 70362.30200933
+2018-Feb-08 09:07:07.879549 INFO [simplewallet] Height 25, transaction d9b54106595e81e823c5b4920359495419bdbba9a641cad0d2e7d020a4d4a6d2, received 70362.03359845
+2018-Feb-08 09:14:13.071229 INFO [simplewallet] Height 26, transaction 9bf123b41e913264a8fcc4e017c418cd7c86b919d283beb9338cefcfe71ce333, received 70361.76518859
+2018-Feb-08 09:16:08.156200 INFO [simplewallet] Height 27, transaction 7a7df235f3750c066c58f0d27210f4618b95d27a14198bfc2136f71de2501b18, received 70361.49677976
+2018-Feb-08 09:19:28.244219 INFO [simplewallet] Height 28, transaction 7ef8a5e0fdc2e022f0385ca0ec881426a13dfac31f75f9ae4d46601f876baf48, received 70361.22837195
+2018-Feb-08 09:23:08.284883 INFO [simplewallet] Height 29, transaction 28c8f7a0f9ed1a6db4b52bbdabbdc48400e3000e4f0bbfda153ed6ba8b740686, received 70360.95996516
+2018-Feb-08 09:25:08.335999 INFO [simplewallet] Height 30, transaction cf8b012e873429114123828af1d449a36933039f172d7862b9a1b9a4fe71d040, received 70360.69155940
+2018-Feb-08 09:26:28.380509 INFO [simplewallet] Height 31, transaction cb4222e0f215c3ab32e8f43844a81b5f4bc51dd14d529bb656db5a3a3fe1afd3, received 70360.42315467
+2018-Feb-08 09:30:03.472602 INFO [simplewallet] Height 32, transaction 8a3f9f4f89a0dfe7be31be585f96f83d8d4980e57cf09c62bf06253e93a8aa26, received 70360.15475095
+2018-Feb-08 09:32:48.548568 INFO [simplewallet] Height 33, transaction d99f57e38a2703f75dd850ffc386ec6f24301017a6ea5116d8781daeee1f5809, received 70359.88634826
+2018-Feb-08 09:36:23.680675 INFO [simplewallet] Height 34, transaction b338a11169e540bc33146d4bc59f688a4c8357d90c0ebd4d3a06524076eee0f5, received 70359.61794660
+2018-Feb-08 09:39:43.767724 INFO [simplewallet] Height 35, transaction c193b2dbaf286b5d472ba2ae69b84c9bb9c254987ac89c3c88f0ff9c26355f9a, received 70359.34954595
+2018-Feb-08 09:40:33.744923 INFO [simplewallet] Height 36, transaction 5932661acf8a8aa3b74fe84228ce457fd77f40c304ce96e75c553c959532c83e, received 70359.08114634
+2018-Feb-08 09:42:18.788400 INFO [simplewallet] Height 37, transaction 63f02ca4f72b65d4e2602105dd45caa0d03b98582c8391b3ddea4219007e12a5, received 70358.81274774
+2018-Feb-08 09:45:03.912599 INFO [simplewallet] Height 38, transaction ec6fd6c5f87656a6184fc4df421e8a0534cd7867e741ffbf62a87b15c69ab81c, received 70358.54435017
+2018-Feb-08 09:45:13.924804 INFO [simplewallet] Height 39, transaction 5df9046bd6efd3b13c123091d1ce2953769b0d4e0c13bdd57bd67fb238ecf6b6, received 70358.27595362
+2018-Feb-08 09:55:29.148941 INFO [simplewallet] Height 40, transaction 2c18c78f3d93fd29b1c4076677fef9448310f0690bd636631b11c4d76739c2c8, received 70358.00755810
+2018-Feb-08 09:56:09.160597 INFO [simplewallet] Height 41, transaction e8f718e2e875c0d3930d73dac7fd86a858ca166e1705832cec8c63daf0a29dcc, received 70357.73916360
+2018-Feb-08 09:57:34.196730 INFO [simplewallet] Height 42, transaction 9bd674f7c746d616bed708e718b06d1b5319758961c28532bbcd17b35021d202, received 70357.47077013
+2018-Feb-08 09:57:54.200897 INFO [simplewallet] Height 43, transaction d0f168ff86b1dffb9a8126966f0e8fd71e45adfa8ca3e0a73971e6efe1b3a5f9, received 70357.20237767
+2018-Feb-08 10:01:18.516944 INFO [simplewallet] Height 44, transaction c7dd523ffdf047c0139bcff89e483621b5d05925f1a4095c815dd76e7fe21a7b, received 70356.93398625
+2018-Feb-08 10:06:04.483788 INFO [simplewallet] Height 45, transaction aa961d041b52e459bba9c0a2d04dd2c771384aae851c63c95ad137374f9f3a57, received 70356.66559584
+2018-Feb-08 10:06:49.512519 INFO [simplewallet] Height 46, transaction a513617fe5502cac1a449f11cecf4db5a449d342cf04701db24225c5249a55bc, received 70356.39720646
+2018-Feb-08 10:07:39.524708 INFO [simplewallet] Height 47, transaction e1b372601817ac5024a104ae6e61add978bf10798ae55e8afef097fbcf33cbd9, received 70356.12881811
+2018-Feb-08 10:08:54.496531 INFO [simplewallet] Height 48, transaction a31bb429f20ab9cfe7f02922af46251bc9abae65916c61fd016f55f5f28edc32, received 70355.86043078
+2018-Feb-08 10:11:41.028692 INFO [simplewallet] available balance: 0.00000000, locked amount: 3025563.15420367
+2018-Feb-08 10:12:00.808653 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 10:12:44.599671 INFO [simplewallet] Height 49, transaction 0c9081f80a5405fbcde4b3a2a7fc3adaf4da42dbc47137e72aee0f4b06a146bb, received 70355.59204447
+2018-Feb-08 10:16:59.756986 INFO [simplewallet] Height 50, transaction d98ddb6c481168fdbf626d7d9f0ff1b32b2286c623a14b88c49b1322d48dda39, received 70355.32365918
+2018-Feb-08 10:18:34.732982 INFO [simplewallet] Height 51, transaction 3ff5df6c6eb45ea9e32127b5941e15d19a0f44e63152f4299858fd7a96c278f2, received 70355.05527492
+2018-Feb-08 10:19:19.760482 INFO [simplewallet] Height 52, transaction 2b9b46a27d6717be50abef28de37a8c41a7f0b18f6151b86352ebaba2e14942c, received 70354.78689168
+2018-Feb-08 10:25:24.972608 INFO [simplewallet] Height 53, transaction e7c013905b4bc37284f2fafb6e7c71652cddb1a03ababa78a886fec0621b33c5, received 70354.51850947
+2018-Feb-08 10:26:04.943549 INFO [simplewallet] Height 54, transaction 5e29c97f3ddf7c92eba784d15447fdceed9ba3bad06561752a9f11a8317c1c3a, received 70354.25012828
+2018-Feb-08 10:35:35.207876 INFO [simplewallet] Height 55, transaction 5727baae140d533af23e6a624465eab80d6ef21902b037b6eda45134ac56bec5, received 70353.98174812
+2018-Feb-08 10:37:25.313127 INFO [simplewallet] Height 56, transaction 497573ede2352e846a37e08d75c658edcddef97d7cee940d947031dd6bf47e25, received 70353.71336897
+2018-Feb-08 10:41:54.685607 INFO [simplewallet] Height 57, transaction b484e9df16196e6c4e0a44ae4e26351897875f54fde2d9a0e43d0a209a7ad1ad, received 70353.44499086
+2018-Feb-08 10:42:25.444848 INFO [simplewallet] Height 58, transaction d2cf416d3437e609633593994db326965fdecd4ff4ca25fcf6f396cbcf2fd00e, received 70353.17661376
+2018-Feb-08 10:46:55.516247 INFO [simplewallet] Height 59, transaction 1baaa5ec76492517a7fa7cac9d71d43e23a1dedb9b9d586012a91b4188628e5f, received 70352.90823769
+2018-Feb-08 10:47:10.528790 INFO [simplewallet] Height 60, transaction 9285c4cbe6d566190f7a291df15e53579dec788e804e0cf9609314dc676b61ba, received 70352.63986265
+2018-Feb-08 10:48:22.316893 INFO [simplewallet] available balance: 70368.47574220, locked amount: 3729090.62480066
+2018-Feb-08 10:48:29.620725 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Feb-08 10:49:43.633818 INFO [simplewallet] Money successfully sent, transaction 8c5078f97a01cacfddb9526e8c9afa0ed87aad3f6ba3bb2838798b5da8b78acc
+2018-Feb-08 10:49:45.005593 INFO [simplewallet] Unconfirmed transaction 8c5078f97a01cacfddb9526e8c9afa0ed87aad3f6ba3bb2838798b5da8b78acc, received 1.00000000
+2018-Feb-08 10:49:49.365069 INFO [simplewallet] available balance: 0.00000000, locked amount: 1.00000000
+2018-Feb-08 10:50:50.743477 INFO [simplewallet] Height 61, transaction 9ad2a78a781708d60313e4b3e3a0a36ce0e5796ccaf0a605f178155b20efe065, received 70352.37248862
+2018-Feb-08 10:51:38.170973 INFO [simplewallet] available balance: 140676.60730777, locked amount: 3729133.86472371
+2018-Feb-08 10:51:40.756773 INFO [simplewallet] Height 62, transaction 4c630aa94ac02d0b95c3d152ee23c44a1f01328e7dc2a44023ce369454324f99, received 70352.10311562
+2018-Feb-08 10:51:45.712743 INFO [simplewallet] Height 63, transaction 8afd01ef315aff954bed9ec4a986ddde0ac56b3725f7a59f5fe06622b18e3ca5, received 70351.83474365
+2018-Feb-08 10:51:52.420765 INFO [simplewallet] available balance: 1.00000000, locked amount: 0.00000000
+2018-Feb-08 10:52:05.772919 INFO [simplewallet] Height 64, transaction 254594d0a23b150a9367aea60bf430eef9de2aeb021803ea48cbcc265a0aae55, received 70351.56637270
+2018-Feb-08 10:55:20.873224 INFO [simplewallet] Height 65, transaction d8f4edf239dd00c7c849b5846efe4711ca6409f5178c3e47bb4170505982f7ea, received 70351.29800277
+2018-Feb-08 10:55:55.840792 INFO [simplewallet] Height 66, transaction 87caf2c6f99d2a08a9ae1bb0fc77b51642986b5053e0da1b8e82934ac681502e, received 70351.02963386
+2018-Feb-08 11:04:50.351963 INFO [simplewallet] Height 67, transaction 3383241572d1d0102dfd7b459e88599c5bad9dbe92f3afb5d59416ab62a1b736, received 70350.76126598
+2018-Feb-08 11:04:55.360983 INFO [simplewallet] Height 68, transaction e7da13f820ec1af75c50db0b2941e49e6c7610777774fcdf140027dfb4ba75d2, received 70350.49289913
+2018-Feb-08 11:19:46.500944 INFO [simplewallet] Height 69, transaction 32b8eb21edc044c4356bbeb244a2c6fd26ad0dbbf9a2f028800470946227b63d, received 70350.22453329
+2018-Feb-08 11:21:10.867100 INFO [simplewallet] Height 70, transaction caba264fc18a51b1b5a4bac294b98c4d64ca3a71ba617212701cf16e993a9980, received 70349.95616849
+2018-Feb-08 11:21:46.629025 INFO [simplewallet] Height 71, transaction bd192e67ded8767db472eea4d79f6357b6d874f8e354d88b04a0cdf81b2dc9b8, received 70349.68780470
+2018-Feb-08 11:22:16.632113 INFO [simplewallet] Height 72, transaction 4ca6fe2cbcb4c18c61c0855c0c76455c4457c0ae85e3fc896b1aaa2d070d92c0, received 70349.41944194
+2018-Feb-08 11:22:26.646997 INFO [simplewallet] Height 73, transaction 002c1fe13cc1d4b84ad936e4f5812cebf9fb2056d53cf17a86dc33c14a2a3595, received 70349.15108020
+2018-Feb-08 11:24:06.008790 INFO [simplewallet] Height 74, transaction dd21180eccd71b90dba1348dfa6439f43fb4d64695e4bac826e756af356badf5, received 70348.88271949
+2018-Feb-08 11:25:51.733461 INFO [simplewallet] Height 75, transaction 377d678ad7d2ad4891320f6ebecb3ca3ec33c7cee1709e0234f85c15de528e8a, received 70348.61435980
+2018-Feb-08 11:27:46.102609 INFO [simplewallet] Height 76, transaction 5559232e25b0e8a4b43fcf8cec51388598543c85a5ff52b2fe797b99b5ba7637, received 70348.34600113
+2018-Feb-08 11:34:01.871918 INFO [simplewallet] Height 77, transaction 279555bf56edba62b3c1fe7706fa7d23b3bf8f51d6904dc7ad4ba630d08b98dc, received 70348.07764349

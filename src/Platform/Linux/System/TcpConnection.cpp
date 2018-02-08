@@ -68,9 +68,9 @@ size_t TcpConnection::read(uint8_t* data, size_t size) {
   std::string message;
   ssize_t transferred = ::recv(connection, (void *)data, size, 0);
   if (transferred == -1) {
-    if (errno != EAGAIN  && errno != EWOULDBLOCK) {
+    if (errno != EAGAIN){ if (errno != EWOULDBLOCK) {
       message = "recv failed, " + lastErrorMessage();
-    } else {
+    }} else {
       epoll_event connectionEvent;
       OperationContext operationContext;
       operationContext.interrupted = false;
@@ -164,9 +164,9 @@ std::size_t TcpConnection::write(const uint8_t* data, size_t size) {
 
   ssize_t transferred = ::send(connection, (void *)data, size, MSG_NOSIGNAL);
   if (transferred == -1) {
-    if (errno != EAGAIN  && errno != EWOULDBLOCK) {
+    if (errno != EAGAIN){ if(errno != EWOULDBLOCK) {
       message = "send failed, " + lastErrorMessage();
-    } else {
+    }} else {
       epoll_event connectionEvent;
       OperationContext operationContext;
       operationContext.interrupted = false;
